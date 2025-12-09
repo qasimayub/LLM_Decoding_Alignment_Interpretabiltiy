@@ -1,0 +1,284 @@
+Model,Prompt,Response,Reward_Score,Length (Tokens)
+GRPO,"Write highlights for this article:
+
+(CNN)Egyptian President Abdel Fattah el-Sisi has called for a ""religious revolution,"" asking Muslim leaders to help in the fight against extremism. In a speech celebrating the birthday of the Prophet Muḥammad, which coincided with New Year's Day, he said they had no time to lose. ""I say and repeat, again, that we are in need of a religious revolution. You imams are responsible before Allah. The entire world is waiting on you. The entire world is waiting for your word ... because the Islamic world is being torn, it is being destroyed, it is being lost. And it is being lost by our own hands,"" el-Sisi said. ""We need a revolution of the self, a revolution of consciousness and ethics to rebuild the Egyptian person -- a person that our country will need in the near future,"" the President said. El-Sisi, himself a pious man, was elected in May after leaving the military to run for the office. A former defense minister, he led the ouster of Mohamed Morsy -- the Islamist who was Egypt's first democratically elected President -- and has long positioned himself as a more secular option, and defender against extremist views. ""It's inconceivable that the thinking that we hold most sacred should cause the entire Islamic world to be a source of anxiety, danger, killing and destruction for the rest of the world.  Impossible that this thinking -- and I am not saying the religion -- I am saying this thinking,"" el-Sisi said. He continued: ""This is antagonizing the entire world. It's antagonizing the entire world! Does this mean that 1.6 billion people (Muslims) should want to kill the rest of the world's inhabitants -- that is 7 billion -- so that they themselves may live? Impossible!​"" While el-Sisi's speech included some powerful language, H.A. Hellyer, a nonresident fellow at the Center for Middle East Policy at the Brookings Institution and research associate at the Kennedy School of Government at Harvard University, said the President has made similar statements in the past. ""There is little to suggest (el-Sisi) is interested in some sort of Lutheran reformation of Islam. By all accounts, he's quite comfortable with the prevailing leadership of the Azhari establishment. ""If anything, he wants to empower it further in order to push forward a counternarrative against radical Islamism. The real question is: How credible can such a state-empowered counternarrative be?"" Hellyer said. On Tuesday, the President visited the main Coptic cathedral in Cairo to attend a Christmas mass and make a short speech. He is the first president to attend such a mass since the revolution. ""We will build our country together. We will accommodate each other. We will love each other,"" el-Sisi said in that speech.
+
+Highlights:","This article discusses a call for a ""religious revolution"" by Egyptian President Abdel Fattah el-Sisi, asking Muslims to help in the fight against extremism. The President, a devout Muslim, emphasized the importance of his country recovering from past conflicts and rebuilding its identity, emphasizing that it would be more secure and peaceful. The President also called for a ""religious revolution"" to help rebuild the Egyptian person by asking Muslims to help in the fight against extremism.",1.9716796875,96
+GRPO,"
+
+Read the following article and answer the question. Article: Nowadays, computer games are becoming more and more popular in many cities and towns. A lot of small shops along busy streets have been made into small game houses in order to get more money. These places are always crowded with people, especially young boys. In the computer game houses, people  spend  a lot of money competing  with the machines. It's hard for one to win the computer, but one can make  progress after trying again and again. People have a kind of gambling psychology when they play computer games. The more they lose, the more they want to win. When class is over, the school boys run to the nearby computer game houses. Little by little , they forget all about their lessons and fall far behind others. Some of them can get enough money from their parents. But some of them are not lucky enough to get the money. They begin to take away other students' money and become thieves. Question: What do we need to play games in the game houses?. Answer:
+Answer:",What do we need to play games in the game houses?,4.046875,13
+GRPO,Solve -472*i = -4172 - 4324 for i.. What is the answer??,"To solve the equation -472*i = -4172 - 4324 for i, we need to isolate i. This can be done by subtracting -4324 from both sides of the equation.
+
+-472*i = -4172 - 4324
+= -4172 - 4324
+= -4324/4324
+= -5
+
+Now, let's divide both sides of the equation by -5 to solve for i.
+
+i = (-5)/4324
+= -5/4324
+= -5/324
+
+So, the solution to the equation -472*i = -4172 - 4324 is i = -5/324.",0.1929931640625,184
+GRPO,"of striking most of Asia and parts of the United States, a Japanese newspaper says. Rodong missiles are capable of reaching any part of Japan, the paper said.
+
+What is a good title for this?","Title: ""Japan's Killer: An Interview with a Japanese Examiner""",2.615234375,17
+GRPO,"Stream of consciousness rationale: The people are not necessarily working for a tan as they walk.
+The question and answer pair are described below.",The given statement is incomplete and doesn't provide enough information to answer the question.,2.427734375,17
+GRPO,"What is the sentiment of the following review?
+No wonders only two and a half stars on this location. My family and I went to this restaurant on Monday night around 10 pm. for late night dinner. There is my daughters and I. We sat in dinning area and ordered some appetizers to start because we were waiting for a few friends to join us. Food came around 10-20 mins after I'd ordered. Food was ok so that I planed to order cookie skillets for my daughters while I was waiting for my friends....BUT.... The server came and mention that we have to leave by 11:00 pm. We're not even finished our food yet!!!  Five minutes later they sent one guy to our table and said that we have to leave!!! He said Zipps's policy not allow anyone under 21 around the building after 11:00 pm. My daughters were so upset either do I .....   Why don't they put the policy on the wall or at less let us know when we got there not just KICK us out!!!   So disappointed , but I still left 25% tip on credit card receip though.  Oh!! I rather go to another location on Ray & Mc Clintock. Food and service better there!!! I used to go with my family and they never kicked us out after 11:00 pm, we could enjoy our wings until we finished with no RUSH!!",The sentiment of the review is negative as it shows disappointment and dissatisfaction with the current location of the restaurant.,1.5458984375,22
+GRPO,"Given the task definition and input, reply with output. In this task, you're given the title of a five-sentence story, the first four sentences, and two options for the fifth sentence as a and b. Your job is to pick the sentence option that does not connect with the rest of the story, indicating your choice as 'a' or 'b'. If both sentences are plausible, pick the one that makes less sense.
+
+Title: Corn Stalks. Sentence 1: This is my first year growing corn. Sentence 2: I'm really excited that it is doing so well. Sentence 3: I noticed that a bunch of stalks had little sucker stalks. Sentence 4: At first I thought my corn was questionable. Choices: a. It turns out that the sucker stalks help grow strong, sweet corn. b. Ethan was very pleased, this was the best meal he had in a long time!
+","a. It turns out that the sucker stalks help grow strong, sweet corn
+
+The story begins with Ethan's first day of growing corn with little sucker stalks. It is particularly noticeable after a short period of time.",3.228515625,47
+GRPO,"After the death of Spitamenes and his marriage to Roxana (Roshanak in Bactrian) to cement relations with his new satrapies, Alexander turned to the Indian subcontinent. He invited the chieftains of the former satrapy of Gandhara, in the north of what is now Pakistan, to come to him and submit to his authority. Omphis(Indian name Ambhi Kumar), the ruler of Taxila, whose kingdom extended from the Indus to the Hydaspes (Jhelum), complied, but the chieftains of some hill clans, including the Aspasioi and Assakenoi sections of the Kambojas (known in Indian texts also as Ashvayanas and Ashvakayanas), refused to submit. Ambhi hastened to relieve Alexander of his apprehension and met him with valuable presents, placing himself and all his forces at his disposal. Alexander not only returned Ambhi his title and the gifts but he also presented him with a wardrobe of ""Persian robes, gold and silver ornaments, 30 horses and 1000 talents in gold"". Alexander was emboldened to divide his forces, and Ambhi assisted Hephaestion and Perdiccas in constructing a bridge over the Indus where it bends at Hund (Fox 1973), supplied their troops with provisions, and received Alexander himself, and his whole army, in his capital city of Taxila, with every demonstration of friendship and the most liberal hospitality. On the subsequent advance of the Macedonian king, Taxiles accompanied him with a force of 5000 men and took part in the battle of the Hydaspes River. After that victory he was sent by Alexander in pursuit of Porus, to whom he was charged to offer favourable terms, but narrowly escaped losing his life at the hands of his old enemy. Subsequently, however, the two rivals were reconciled by the personal mediation of Alexander; and Taxiles, after having contributed zealously to the equipment of the fleet on the Hydaspes, was entrusted by the king with the government of the whole territory between that river and the Indus. A considerable accession of power was granted him after the death of Philip, son of Machatas; and he was allowed to retain his authority at the death of Alexander himself (323 BC), as well as in the subsequent partition of the provinces at Triparadisus, 321 BC. In the winter of 327/326 BC, Alexander personally led a campaign against these clans; the Aspasioi of Kunar valleys, the Guraeans of the Guraeus valley, and the Assakenoi of the Swat and Buner valleys. A fierce contest ensued with the Aspasioi in which Alexander was wounded in the shoulder by a dart, but eventually the Aspasioi lost. Alexander then faced the Assakenoi, who fought in the strongholds of Massaga, Ora and Aornos. The fort of Massaga was reduced only after days of bloody fighting, in which Alexander was wounded seriously in the ankle. According to Curtius, ""Not only did Alexander slaughter the entire population of Massaga, but also did he reduce its buildings to rubble"". A similar slaughter followed at Ora. In the aftermath of Massaga and Ora, numerous Assakenians fled to the fortress of Aornos. Alexander followed close behind and captured the strategic hill-fort after four bloody days. 
+
+Choose your answer: According to the above paragraph, the correct answer to the question ""What did Alexander do following the death of his wife Roxana?"" is ""He invited the chieftains of the former satrapy of Gandhara to come to him and submit to his authority""?
+
+OPTIONS: (a). no (b). yes",(a). no,2.576171875,5
+GRPO,"Choose your answer: If ""A woman looking at her cellphone."", does it logically follow that ""A woman with a cellphone.""?
+
+OPTIONS:
+ 1). yes.
+ 2). it is not possible to tell.
+ 3). no.","If it's not possible to tell, then it does not logically follow that ""A woman looking at her cellphone."" It's like when you can't tell the color of your shirt because it's not the same color as your jeans.",1.8017578125,48
+GRPO,Write a dialog about anything you want,"In this conversation, I'm ready to help you with any question or problem you have. I'll respond in a natural and clear way, explaining things in simple terms and using simple language. I'm here to help you with anything you need. Please go ahead and ask your question, and I'll do my best to assist you.",1.1865234375,68
+GRPO,"Generate a question that has the following answer:  Atlantica  for the following movie plot:  Ariel, a sixteen-year-old mermaid princess, is dissatisfied with underwater life and is curious about the human world. With her best friend Flounder, Ariel collects human artifacts and goes to the surface of the ocean to visit Scuttle the seagull, who offers very inaccurate knowledge of human culture. She ignores the warnings of her father King Triton, the ruler of Atlantica, and his adviser and court composer Sebastian that contact between merpeople and humans is forbidden. One night, Ariel, Flounder, and an unwilling Sebastian travel to the ocean surface to watch a celebration for the birthday of Prince Eric on a ship. Ariel quickly becomes enamored with Eric. The birthday celebration is cut short by a violent storm which wrecks the ship and tosses Eric overboard. Ariel rescues him and brings him to shore. She sings to him, but quickly leaves after as he regains consciousness to avoid being discovered. Fascinated by the memory of her voice, Eric vows to find who saved and sang to him, and Ariel vows to find a way to join him and his world. Noticing a change in Ariel's behavior, Triton questions Sebastian about her behavior and learns of her love for Eric. Triton confronts Ariel in her grotto, where she and Flounder store human artifacts, and destroys the objects with his trident. After Triton leaves, two eels named Flotsam and Jetsam convince Ariel to visit Ursula the sea witch. Ursula makes a deal with Ariel to transform her into a human for three days in exchange for Ariel's voice, which Ursula puts in a nautilus shell. Within these three days, Ariel must receive the ""kiss of true love"" from Eric. If Ariel gets Eric to kiss her, she will remain a human permanently, otherwise, she will transform back into a mermaid and belong to Ursula. Ariel accepts and is then given human legs and taken to the surface by Flounder and Sebastian. Eric finds Ariel on the beach and takes her to his castle, unaware that she is the one who had rescued him earlier. Ariel spends time with Eric, and at the end of the second day,...
+",I can generate a question based on the provided plot.,2.689453125,12
+GRPO,"Question: I know that the answer to the question ""What type of tree can survive decay?"" is in ""The term heartwood derives solely from its position and not from any vital importance to the tree. This is evidenced by the fact that a tree can thrive with its heart completely decayed. Some species begin to form heartwood very early in life, so having only a thin layer of live sapwood, while in others the change comes slowly. Thin sapwood is characteristic of such species as chestnut, black locust, mulberry, osage-orange, and sassafras, while in maple, ash, hickory, hackberry, beech, and pine, thick sapwood is the rule. Others never form heartwood."". Can you tell me what it is?
+Answer:",The term heartwood is related to the position of the trunk and is not directly related to its vital importance to the tree.,1.6357421875,26
+GRPO,"How does the sentence end?
+
+Christopher bought new crystal plates from Kevin because ",The sentence ends because the person Christopher bought new crystal plates from Kevin is not the same person who bought new crystal plates.,2.271484375,25
+GRPO,"Please answer the following question: SEOUL — In addition to growing concerns that North Korea will pull out of the upcoming nuclear summit with the U.S., prospects for improved inter-Korean relations have also stalled, as Pyongyang demands that U.S.-South Korea joint military drills be scaled back, and a group of defectors be returned. Just weeks after North Korean leader Kim Jong Un and South Korean President Moon Jae-in declared the beginning of a new era of peace during a historic summit held in the demilitarized zone of the inter-Korean border, Pyongyang has put further dialogue and cooperation on hold until its demands are met. President Moon will meet with U.S. President Donald Trump in Washington on Tuesday to discuss the upcoming Trump-Kim summit and the North’s sudden conditions set for continued dialogue and cooperation. Most of North Korea’s anger last week, expressed in official statements and reports carried by the state news agency KCNA, seemed to be directed at the U.S. It criticized the Max Thunder joint military exercise that is currently underway, and U.S. National Security Adviser John Bolton’s demands for the North’s unilateral nuclear disarmament. North Korea in particular objected to Bolton’s insistence that North Korea follow the Libyan model, which involved the rapid and total dismantlement of that country’s nuclear program, but it was also followed by the overthrow of the country’s leader Moammar Gadhafi some years later. Unless the U.S. eased up on its uncompromising stance, Pyongyang indicated it would pull out of the June 12 meeting in Singapore between Kim and U.S. President Donald Trump to negotiate an end the North’s nuclear program in exchange for security guarantees and an end to punishing international sanctions. President Trump later said the Libya model does not apply to North Korea and that Kim Jong Un would remain in power and “be very rich” if he makes a deal to end his country’s nuclear program. North Korea denounced South Korea, as well, for the joint military drills, calling the Seoul government... At the end of the story, Trump and Kim probably: Pick the correct answer from the following options: - meet on June 12 - don't meet on June 12 - not enough information - meet on June 12 and in September
+A:",- meet on June 12 and in September,4.65625,11
+GRPO,"Please answer the following question: The exercise is to decide whether the question accepts the proposed suggestion as a correct answer. If yes, write ""True"", otherwise write ""False"". Question: how many games did brett favre start in a row Suggestion: He was a 20-year veteran of the NFL, having played quarterback for the Atlanta Falcons ( 1991 ), Green Bay Packers ( 1992 – 2007 ), New York Jets ( 2008 ) and Minnesota Vikings ( 2009 – 2010 ).
+A:",True,1.9755859375,2
+GRPO,Please capitalize where necessary: it was these questions that 300 citizens from all over the region of southern denmark debated and answered for the politicians from the regional council.,"The question was ""Where were the 300 citizens from the southern district of Denmark from whom these questions were debated and answered for the politicians from the regional council.""",1.87109375,35
+GRPO,Come up with a question and reasoning that would justify this answer: Christianity,"1. What is the most popular religion in the world?
+
+This question is answered by a rationale that comes from considering the broad range of different religious and philosophical beliefs. The answer ""Christianism"" is the most widely recognized and accepted form of Christianity.
+
+2. What are the core characteristics of Christianity?
+
+This answer is based on the foundational teachings and practices of Christianity, such as the Bible, worship, sacraments, and the concept of salvation.
+
+3. What are the main spiritual practices of Christianity?
+
+This answer is based on the core teachings of Christianity, such as the sacraments, faith in Jesus Christ, and the belief in the Trinity.
+
+4. What are the key differences between Christianity and other religions?
+
+This answer highlights the distinct nature of Christianity, which emphasizes its teachings, practices, and the way it interacts with other cultures.
+
+5. What are the main characteristics of Christianity that distinguish it from other religions?
+
+This answer highlights the unique aspects of Christianity, such as its emphasis on personal salvation, the unity of Christ, and the spiritual journey of believers.
+
+In conclusion, the answer ""Christianism"" is the most popular religion in the world, with the most widely recognized and accepted form of Christianity.",0.64501953125,256
+GRPO,"In this task, you are given inputs i, j, and A, where i and j are integers and A is a list. You need to find all elements of A from the ith element to the jth element, reverse the order in which they occur, and then concatenate them to output the resultant string. i and j will be non-negative, and will always have a value less than the length of A. i will always be less than j. Perform the operations in order, i.e., do not concatenate the elements and then reverse the string.
+Q: 22, 30, ['7739', 'E', '9575', '6173', '2407', 'U', 'A', '877', '5289', 'Q', '5213', 'V', 'q', '293', 'V', '4037', 'j', 'y', '8443', 'h', '6357', '6961', 'V', '7843', '2221', 'r', 'n', '1987', '6097', '7275']
+A: ","['Q', 'j', '8443', '6173', '30', '6173', '877', '5289', '2221', 'v', '293', '6357', '9575', '6173', '7275', '4037', '5289', 'n', '1987', '6097', '7275']",0.326904296875,111
+GRPO,"No, případ uzavřen. Stres měl nůž a ubodal ji k smrti.
+
+Translate this to English?","No, it means it is not just a small village. It is a big place that everyone lives here.",3.001953125,23
+GRPO,"What do women wish men knew?
+
+What parenting fact did you wish you knew?
+
+Please tell me if those questions are the same.","Ah, little girl, I'm ready. So, this is how you wish for men to know.
+
+Okay, so here's what you wanted me to know:
+
+- Women wish that people would share their thoughts and feelings with them.
+- They wish that they could listen to how men are feeling and understand their feelings too.
+- They wish that they could be like them and show how much they love them.
+
+It's a bit like how you would wish for someone to be kind to you, or to be happy with you. You would want them to be kind to you, happy with you, and not just be nice to you.",1.4599609375,137
+GRPO,"Translate ""By deciding to offer complete propulsion systems, Lampoldshausen has been able to strengthen its position considerably, particularly in the European telecommunications market."" to French?","Lampoldshausen avec une fonctionnée de pâtisserie pour l'eau de lumière cachées sont beaucoup plus plus plus élevé, cela peut faire à l'Europe.",1.9697265625,55
+GRPO,"Here's a question: If you entire body is experiencing fatigue what would you do at the end of the day?  Here are possible answers to this question: - sleep - sit down - sit on chair - have rest - lie on floor  I believe the correct choice is ""sleep"", here's why:
+A:","If the entire body is experiencing fatigue, it would be as if the body is not getting enough sleep. In such a situation, one of the other options above could be misinterpreted as ""lie on the floor,"" which is not the most practical and non-sensical approach.
+
+The correct answer is ""sleep."" The body would be in a state of reduced energy, and lying on the floor might not provide the necessary rest and rejuvenation that is often required to avoid fatigue.",3.046875,99
+GRPO,"Question: Given the following context:  McVeigh's original plan had been to detonate the bomb at 11:00 am, but at dawn on April 19, 1995, he decided instead to destroy the building at 9:00 am. As he drove toward the Murrah Federal Building in the Ryder truck, McVeigh carried with him an envelope containing pages from The Turner Diaries – a fictional account of white supremacists who ignite a revolution by blowing up the FBI headquarters at 9:15 one morning using a truck bomb. McVeigh wore a printed T-shirt with the motto of the Commonwealth of Virginia, Sic semper tyrannis (""Thus always to tyrants"", according to legend what Brutus said as he assassinated Julius Caesar, also shouted by John Wilkes Booth immediately after the assassination of Abraham Lincoln) and ""The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants"" (from Thomas Jefferson). He also carried an envelope full of revolutionary materials that included a bumper sticker with the Thomas Jefferson slogan, ""When the government fears the people, there is liberty. When the people fear the government, there is tyranny."" Underneath, McVeigh had written, ""Maybe now, there will be liberty!"" with a hand-copied quote by John Locke asserting that a man has a right to kill someone who takes away his liberty.McVeigh entered Oklahoma City at 8:50 am. At 8:57 am, the Regency Towers Apartments' lobby security camera that had recorded Nichols's pickup truck three days earlier recorded the Ryder truck heading towards the Murrah Federal Building. At the same moment, McVeigh lit the five-minute fuse. Three minutes later, still a block away, he lit the two-minute fuse. He parked the Ryder truck in a drop-off zone situated under the building's day-care center, exited and locked the truck, and as he headed to his getaway vehicle, dropped the keys to the truck a few blocks away.  answer the following question:  What is the name of the person who lit the two-minute fuse while still a block away?
+Answer:","The person who lit the two-minute fuse while still a block away is the person who lit the five-minute fuse during the bombing of the Murrah Federal Building in Oklahoma City on April 19, 1995.",1.919921875,49
+GRPO,"Based on the premise "" ""Peace, amigo .""Don Cazar's raised finger silenced his man."", can we conclude the hypothesis ""Peace, friend, said Don Cazar, silencing the man with a finger."" is true (see options)?
+
+Available choices:
+ -yes;
+ -it is not possible to tell;
+ -no;","No, we cannot conclude the hypothesis ""Peace, friend, said Don Cazar, silencing the man with a finger"" is true based on the given premise ""Peace, amigo .""",1.3291015625,39
+GRPO,"Attributes: name = Giraffe, eatType = coffee shop, priceRange = high, customer rating = average, familyFriendly = yes, near = The Bakers. Produce a detailed sentence about this restaurant.","The Bakers is a family-friendly coffee shop located near The Bakers, offering a delightful blend of classic coffee and tasty treats that pair well with a warm and welcoming atmosphere.",4.18359375,37
+GRPO,"Answer the following question: How can you get in shape if there is no land nearby?  A. swim  B. jog  C. excercise  D. work out  E. rock climb  The best answer is
+Answer:","A. swim
+
+The question asks how to ""get in shape"" if there is no land nearby. The correct answer is A. swim as it is a form of exercise and does not involve physically working out.",1.35546875,45
+GRPO,"Sentence: ""This building got taller and wider than that one.""
+Pick from options: would a linguist rate this sentence to be acceptable linguistically?
+
+Choose your answer from:
+(1). unacceptable.
+(2). acceptable....I think the answer is","(2). acceptable.
+
+A linguist would rate this sentence to be acceptable linguistically because it is a common statement and it is an accurate description of the buildings structure and size.",2.732421875,39
+GRPO,What would be an example of an negative review?,"Sometimes, people say things that make them feel bad or unhappy. An example of a negative review could be:
+
+""I don't like this place. It seems to be a big mess. They're not clean, and it smells really bad. I'm not sure I want to stay there.""
+
+In this example, the person is expressing they don't like the place, which is a negative review because it shows they don't like something that they cannot tolerate.",3.044921875,97
+GRPO,"In this task, you're given the title and three arbitrary sentences out of a five-sentence story. You are also given three additional sentence options, a, b, and c, that may or may not belong to the story. Your job is to pick the two options that seamlessly connect with the rest of the story; note that the selected choices may fit into the story at any point. Indicate your selected choices in order, i.e., as 'ab'/'bc'/'ac' and not as 'ba'/'ca'/'cb'. If options are equally plausible, pick the ones that make more sense.
+Q: Title: She bought new makeup. She practiced every day. She then became a makeup artist. Choices: a. She watched videos online. b. Cat tried out and did not make the team. c. Rita wanted to learn how to do her own makeup.
+A: ",c. Rita wanted to learn how to do her own makeup,2.205078125,14
+GRPO,"The Greek kingdom of Bactria began as a breakaway satrapy of the Seleucid empire, which, because of the size of the empire, had significant freedom from central control. Between 255-246 BCE, the governor of Bactria, Sogdiana and Margiana (most of present-day Afghanistan), one Diodotus, took this process to its logical extreme and declared himself king. Diodotus II, son of Diodotus, was overthrown in about 230 BC by Euthydemus, possibly the satrap of Sogdiana, who then started his own dynasty. In c. 210 BC, the Greco-Bactrian kingdom was invaded by a resurgent Seleucid empire under Antiochus III. While victorious in the field, it seems Antiochus came to realise that there were advantages in the status quo (perhaps sensing that Bactria could not be governed from Syria), and married one of his daughters to Euthydemus's son, thus legitimising the Greco-Bactria dynasty. Soon afterwards the Greco-Bactrian kingdom seems to have expanded, possibly taking advantage of the defeat of the Parthian king Arsaces II by Antiochus.
+
+Answer this question, if possible (if impossible, reply ""unanswerable""): The Greco-Bactrian kingdom was invaded by what Seleucid leader?",The Greco-Bactria kingdom was invaded by Antiochus III.,2.291015625,15
+GRPO,"Please answer the following question: Write a multi-choice question for the following article: Article: The Growing Credit Crisis Forces Many Companies to Seek Government Help On September fifteenth, Lehman Brothers, a one hundred fifty-eight year-old investment bank, sought legal protection from its creditors. It had failed to find a buyer after months of searching. With over six hundred billion dollars in debt, Lehman's failure was the largest bankruptcv in United States history At the same time,the nation's biggest insurance company,American International Group, had gotten into trouble selling credit default swaps These are contracts Similar to insurance that protect the holder against credit risk. Credit rating agencies downgraded A.I.G because of concerns it could not honor its contracts. Unable to get new loans, A.I.G asked for government help The Federal Reserve agreed to loan A .I.G. eighty-five billion dollars in return for eighty percent of the company but it was not enough. By November, the government had extended a total of about one hundred fiftv billion doliars in aid to A .I.G--the most to any single company during the crisis. As banks refused to lend, Treasury Secretary Henry Paulson proposed a plan to loosen credit markets by buylng risky assets. Congress approved the Emergency Economic Stabilization Act of Two. Thousand eight on October third The bill provided seven hundred billion dollars to buy hard to-value securltles from banks. But within weeks, the government changed plans. The Treasury moved to invest two handred fifty billion dollars directly in banks to help them lend money again. Lack of credit not only hurt banks but manufacturers, too. Falling car sales threatened America's carmakers The big three automakers--General Motors, Ford and Chrysler--told Congress that they needed loans or they faced bankmptcy. In December, President Bush offered G.M and Chrysler over seventeen billion dollars in loans. As the year ended, the Federal Reserve tried to support economic growth by lowering its main interest rate to nearly zero for the first time. But there was one more bad surprise New York...
+A:","In the article, what is the amount of money that the Federal Reserve received and what role does this amount play in helping to stimulate economic growth?",2.880859375,30
+GRPO,"Write highlights for this article:
+
+Warning: Tory group Renewal said it is up to David Cameron to 'right the wrong' of the party opposing minimum wage. David Cameron must increase the minimum wage because many poor voters no longer believe in capitalism, Tory MPs warn today. Echoing Ed Miliband’s critique of predatory capitalism, the Conservative group Renewal, which campaigns for the Tories to broaden their appeal with working class voters, today warns the Prime Minister that he must do more for the North or risk losing the next election. Robert Halfon, the MP for Harlow has already won the nickname ‘the most expensive MP in Parliament’ after persuading Chancellor George Osborne to freeze fuel duty to help voters who are feeling the squeeze. Today he calls for the National Minimum Wage, currently £6.31 an hour for the over 21s to be raised - a move being considered by the Low Pay Commission and the Chancellor. He said: ‘It was a big mistake for the Conservative Party to oppose the minimum wage. We must right that wrong by at least increasing it in line with inflation. We should not make the same mistake. ‘We must move on to ensure that everyone, in the north and the south, on low wages as well as high, can benefit from the proceeds of growth. If we say that the Conservative Party is on the side of hard working people then we have to really mean it.’ Renewal announced that they will now begin work on a project called ‘Renewing Capitalism’, to come up with ‘new ways to create a genuinely competitive economic environment in which the consumer and the low-paid are protected, competition is cherished and anti-competitive, monopolistic behaviour is cracked down on’. They will also explore ideas to create wealth in parts of the country that have been struggling to share in prosperity since the 1980s, notably deindustrialised towns in northern England. David Skelton, founder of the group, said: ‘The Conservative Party needs to come to terms with the fact that many people, particularly the low paid, don’t think that capitalism is working for them. ‘We need to do more to show that capitalism can work for everybody in every part of the country. Being pro market isn’t the same as being pro big business. 'Where there are instances of abuse - in either the public or the private sector - Conservatives should come down hard to protect the consumer.’ Chancellor George Osborne is now considering the move as the Conservatives court voters. That critique is a stark echo of Labour leader Ed Miliband’s view that Britain needs a ‘new kind of economy’. The Labour leader is due to make a speech later this week in which he will spell out more ideas about what aides say is his determination to temper the excesses of traditional Anglo-Saxon market economies and create a society more like that of Germany or Scandinavia where businesses and unions work more closely together. A Conservative spokesman said: ‘The government is helping hardworking families across Britain and offering them financial security by letting people earn £10,000 before they pay tax, cutting fuel duty and freezing council tax. ‘Ambitious projects like HS2 and the electrification of local rail services in the North - key elements of our long-term economic plan - are vital to Britain’s recovery.’
+
+Highlights:","Here are the highlights from the article:
+
+1. David Cameron is being criticized for opposing the minimum wage, which critics argue is a ""wrong"" move. The Conservative MP for Harlow has called for increased the minimum wage to be raised, and they believe the Prime Minister needs to do more to benefit working class voters.
+
+2. Renewal is planning a project called ""Renewing Capitalism"" to help low-paid workers protect their rights. The project aims to create a competitive economic environment by increasing the minimum wage, which will help lower the pay gap between working and non-working households.
+
+3. Chancellor George Osborne is considering a move as the Conservatives court voters. This is a stark echo of Labour leader Ed Miliband's famous critique of the traditional Anglo-Saxon market economy, and the Conservatives are now being asked to do more to protect consumers and businesses in Britain.
+
+4. The Labour leader, Ed Miliband, is considering the move as a strategy to counter the excesses of traditional Anglo-Saxon market economies. This is a criticism of the Conservatives who criticise them for opposing the minimum wage and the creation of a competitive economic environment.",1.572265625,240
+GRPO,"Write a multi-choice question for the following article, with the given choices and answer: Article: When tea and coffee were first introduced to Europe in the 18th century, people had different ideas about their use.Some said that tea and coffee were harmful to humans and they could cause  people to die. In Sweden , King Gustaf III decided to find out whether or not this was true.It happened that there were two brothers in prison at that time.They were twins and were almost alike in every way.They had both been sentenced to death  .The King decided to let them live if one of the men agreed to drink several cups of tea each day and the other several cups of coffee. Both brothers lived many years without problems of any kind.At last,the brother who had drunk tea every day died at the age of 83,the other died a few years later. Because of the experiment , tea and coffee got accepted   and became popular as drink in Sweden, and it is one of the many countries of the world where much tea and coffee is drunk today. Options: A until he was over 83 B until he was 83 C until the other had been dead for several years D until he had drunk tea for a few years Answer: B until he was 83 Question:
+Answer:",Question: How many years did King Gustaf III have to live without problems before his death?,2.134765625,20
+GRPO,"Veganism is a type of diet that excludes all animal products, including those that are byproducts. Honey is considered an animal byproduct.
+This justifies what answer for what question? Q & A: ","Question: Is veganism a type of diet that excludes all animal products?
+
+Answer: No, veganism is not a type of diet that excludes all animal products. It is a lifestyle that involves reducing or avoiding animal products, including honey, as it is derived from animal sources.",2.68359375,59
+GRPO,"Summarize this article:
+
+The finance secretary said it would be wrong to strike a bargain which cut Scotland's budget.
+Mr Swinney said a ""fiscal framework"" needed to link Scotland's budget to economic performance.
+But the prime minister has insisted ""unprecedented devolution on taxes"" was being sent to Holyrood.
+David Cameron made his comment during clashes with the SNP's Westminster leader Angus Robertson at PMQs in the House of Commons.
+In the Scottish Parliament, Mr Swinney said the Scottish government  should be given ""flexibility and choice to pursue its own distinct policies"".
+Scotland's deputy first minister was speaking as he led a debate on Westminster's Scotland Bill.
+The bill is the legislation drawn up to deliver the recommendations of the Smith Commission, which was set up after the ""No"" vote in the independence referendum last September.
+The commission was intended to deliver the pledges made in the Vow, a last minute pledge by the three main Unionist parties exactly a year ago to give Scotland widespread new powers over tax and welfare.
+Mr Swinney told MSPs that the Smith Commission did not meet the promises of the Vow and the Scotland Bill did not at present fully implement the recommendations of the commission.
+He called for the UK government to ""move significantly"" when the Scotland Bill returns to Westminster for its Report Stage and outlined areas where the bill ""fell short"" such as social security, employment programmes and the Crown estate.
+The MSP also complained that the bill allowed UK ministers to veto proposed changes to Universal Credit and energy schemes.
+Mr Swinney said there must be a ""fiscal framework"" to ensure further devolution provides the right incentives, linking the Scottish government's budget to Scottish economic performance.
+He told the chamber: ""We should retain the rewards of our success, as we will bear the risks.
+""When the Scottish economy outperforms that of the rest of the UK, our spending power should increase.""
+Mr Swinney added: ""I want to make very clear again that the Scottish government will not recommend that this parliament gives consent to the bill without an agreed fiscal framework that is fair to Scotland.
+""I would have no hesitation to refuse to recommend a proposal that did not provide us with the ability to use our powers properly and flexibly to support the people of Scotland, to address our own priorities and to improve our economy.""
+Scottish Labour's democracy spokeswoman Claire Baker said her party wanted the devolution of the work programme, which seeks to get the long-term unemployed into work.
+She said the Scotland Bill needed to be stronger and did not meet her expectations.
+Ms Baker said her party would put forward amendments to the bill at Westminster and was committed to making sure the Scottish Parliament became one of the strongest devolved parliaments in the world.
+The debate followed clashes at prime minister's questions when Mr Robertson said the ""Vow"", made in the closing days of the independence referendum campaign last year, had not been delivered by the Tory government in Westminster.
+He added that even former Labour prime minister Gordon Brown said delivery was ""falling short"".
+Mr Cameron said: ""We have delivered on all of the promises that we made.
+He said: ""We said we would introduce a Scotland Bill, we introduced a Scotland Bill.
+""We said unprecedented devolution on taxes, there has been unprecedented devolution on taxes.
+""We said that we would provide those welfare powers, we have given those welfare powers.""
+Mr Cameron said the SNP should stop talking about processes and ""start telling us what taxes you are going to put up, what welfare changes you are going to make"".
+
+Summary:","The finance minister argued that the Scottish government should not have to make important decisions, such as splitting the budget, as they did with the Vow, which made other important decisions. The Scottish government should be given freedom to make decisions that fit with their policies. The prime minister said that the UK government should consider the budget and how the Scottish government can use its powers. They want the Scottish government to make tax changes to ensure that the Scottish economy is working well and that the UK government can use its powers to support the people of Scotland.",1.9755859375,109
+GRPO,"I finally caught up to ""Starlight"" last night on television and all I can say is. . . wow! It's hard to know where to begin -- the incredibly hokey special effects (check out the laser beams shooting out of Willie's eyes!), the atrocious acting, the ponderous dialogue, the mismatched use of stock footage, or the air of earnest pretentiousness that infuses the entire production. This truly is a one-of-a-kind experience, and we should all be thankful for that. I nominate Jonathon Kay as the true heir to Ed Wood!
+Would you say this review is positive or negative?","This review is positive.
+
+The reviewer praises the production as a one-of-a-kind experience, indicating that they appreciate the outstanding special effects and actor-driven performances. They also commend Jonathon Kay for his portrayal of Mr. Wood as an overtheorized, intimidating, and inept actor.",1.7265625,65
+GRPO,"
+
+I heard that Skylar was very upset and Sasha the mother was comforting her.  And I was wondering How would Sasha feel as a result?
+Answer:","As a result, Sasha would likely feel a mix of emotions, including sadness, anger, and possibly even hurt or betrayal. The fact that Sasha was comforting her mother in this situation suggests that she may have felt a strong sense of connection or empathy to her mother. This could have led to a sense of relief or comfort for Sasha, as well as a sense of responsibility for her mother's well-being.",0.826171875,86
+GRPO,"Generate a correctly punctuated version of the following text: Click on Rebuy to buy more credits into the game balance from your Party Account
+
+",Click on Rebuy to buy more credits into the game balance from your Party Account.,2.96484375,18
+GRPO,"What is it like being a doctor?
+What's it like being a doctor?
+Do those questions have the same meaning?
+pick from the following.
+[a]. no;
+[b]. yes;","To answer the question, let's break it down step by step:
+
+Step 1: Understand the question
+The user is asking, ""What is it like being a doctor?""
+
+Step 2: Understand the meaning of the question
+The question is asking about being a doctor and whether it's the same for all doctors.
+
+Step 3: Determine the answer
+The answer ""no"" to both questions implies that being a doctor is not the same for all doctors.
+
+Step 4: Provide a more accurate answer
+To provide a more accurate answer, we need to consider the context and possibly the user's own experience.
+
+Step 5: Provide a more accurate answer
+Being a doctor is not the same for all doctors. Some doctors may specialize in specific areas of medicine, and others may only be doctors of general medicine.",2.689453125,177
+GRPO,"Short movie review: hated myself 
+Did the critic thinking positively or negatively of the movie?",The critic thought positively of the movie.,1.919921875,9
+GRPO,"Question: Information:  - The Kent Music Report was a weekly record chart of Australian music singles and albums which was compiled by music enthusiast David Kent from May 1974 through to 1988. After 1988, the Australian Recording Industry Association, who had been using the report under licence for a number of years, chose to produce their own charts as the 'ARIA Charts'.  - The Australian Recording Industry Association (ARIA) is a trade group representing the Australian recording industry which was established in 1983 by six major record companies, EMI, Festival, CBS, RCA, WEA and Universal replacing the Association of Australian Record Manufacturers (AARM) which was formed in 1956. It oversees the collection, administration and distribution of music licenses and royalties.  - The ARIA Charts are the main Australian music sales charts, issued weekly by the Australian Recording Industry Association. The charts are a record of the highest selling singles and albums in various genres in Australia. ARIA became the official Australian music chart in June 1988, succeeding the Kent Music Report which had been Australia's national charts since 1974.  - `` Do for You '' / `` I Want It '' is a 1992 song recorded by the Australian act Euphoria . The track reached number seven on the ARIA Charts in 1992 and is the act 's third single after `` One In A Million . '' `` Do For You '' had a more mid-tempo dance feel , while `` I Want It '' had a techno / house beat , which featured rapper Young MC , who got credits on the latter . While both tracks charted together they were never released as singles , although `` I Want It '' was released to clubs as a promo .  - Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands. It is the world's sixth-largest country by total area. The neighbouring countries are Papua New Guinea, Indonesia and East Timor to the north; the Solomon Islands and Vanuatu to the north-east; and New Zealand to the south-east. Australia's capital is Canberra, and its largest urban area is Sydney.  - Albums of recorded music were developed in the early 20th century, first as books of individual 78rpm records, then from 1948 as vinyl LP records played at  rpm. Vinyl LPs are still issued, though in the 21st century album sales have mostly focused on compact disc (CD) and MP3 formats. The audio cassette was a format used from the late 1970s through to the 1990s alongside vinyl.    What entity does 'do for you' has the relation 'record label' with?
+Answer:","The entity that 'do for you' has the relation 'record label' with is the Australian Recording Industry Association (ARIA), as they played a key role in the creation of the Australian record charts.",1.5576171875,42
+GRPO,Write the answer: Who set a water speed record of 225.6 m.p.h. at Coniston Water in September 1956?,"A water speed record is set when an individual can maintain a speed of 100 meters per minute for a longer period of time. The event is called the Coniston Water Speed Record, and it is held at Coniston Water, a sea inlet in the northwestern part of the United Kingdom.
+
+On September 5, 1956, a British team, led by Professor John G. McMullin, set a record of 225.6 meters per minute for a 100-meter swimming race at Coniston Water. The team consisted of over 250 athletes from the British Waterways Federation, including 100 British swimmers from the University of Greenwich and the University of Glasgow.
+
+The event was held at Coniston Water, a venue that had been the site of a number of water sports events since its construction in 1895. The water was an important component of the event, as it provided a platform for athletes to swim, while also providing a means for spectators to watch the proceedings.
+
+The Coniston Water Speed Record is a testament to the bravery, skill, and perseverance of the British swimmers. It is considered one of the most prestigious water races in the world,",1.9296875,256
+GRPO,"Do clothing retail stores require their employees to wear that company's clothing at work?
+How do clothing store employees feel when a customer tries on a lot of clothes but leaves without buying anything?
+Do those questions have the same meaning?","Yes, both questions have the same meaning because they are asking about how clothes at a store are made or taken care of. They are asking about the experience a customer has when they try on clothes at a store, so they are asking about the expectations people have for customers.",1.8232421875,56
+GRPO,"Naa Bolinaa Saaka is a Ghanaian diplomat and a member of the New Patriotic Party of Burkina Faso . He is currently Ghana 's ambassador to Ghana .
+Naa Bolinaa Saaka is a Ghanaian diplomat and a member of the New Patriotic Party of Ghana , which is currently Ghana 's Ambassador to Burkina Faso .
+
+Do these sentences mean the same thing?","Yes, these sentences mean the same thing. Both sentences talk about a diplomat and a Ghanaian diplomat. The main difference is in the person being referred to (Naa Bolinaa Saaka) and the person who is representing them (Ghana 's ambassador to Burkina Faso).",1.712890625,60
+GRPO,"You are given a list of queries separated by new line. Your job is to answer with the query that is the most well-formed or well-structured query in terms of grammar, punctuations, or spelling errors.
+Q: How do you set the alarm on the prospirit watch ?
+The allies tried to regain access to the battle of Gallipoli ?
+What is scooter smith real phone number not a fake one ?
+Law of Supply and Demand defined ?
+A: ","Here is a detailed explanation of how to set the alarm on the prospirit watch:
+
+1. Press the ""+"" button.
+2. Choose the ""+"" button to open the ""+"" button menu.
+3. Select ""Set alarm"" from the menu.
+4. Type the query that needs to be answered.
+5. Press ""+"" button.
+6. Choose the ""+"" button to open the ""+"" button menu.
+7. Select ""Set alarm"" from the menu.
+8. Type the query that needs to be answered.
+9. Press ""+"" button.
+10. Choose the ""+"" button to open the ""+"" button menu.
+11. Select ""Set alarm"" from the menu.
+12. Type the query that needs to be answered.
+13. Press ""+"" button.
+14. Choose the ""+"" button to open the ""+"" button menu.
+15. Select ""Set alarm"" from the menu.
+16. Type the query that needs to be answered.
+17. Press ""+"" button.
+18. Choose the ""+"" button to open the ""+"" button menu.
+19. Select ""Set alarm"" from the menu.",-1.0849609375,256
+GRPO,"Given the question: Please answer the following question about this movie plot. If it's un-answerable, please output ""No answer"".  Question: What was Mirus' body tangled up in? Movie plot title: The Bunker Movie plot: This article's plot summary may be too long or excessively detailed. Please help improve it by removing unnecessary details and making it more concise. (March 2015) (Learn how and when to remove this template message) In late 1944, the remnants of a platoon of German Panzergrenadiers from the GroÃdeutschland Division are caught in an ambush by American troops. In their retreat, they find a German bunker manned by elderly Pvt. Mirus (John Carlisle) and young Pvt. Neumann (Andrew-Lee Potts) who had been left to defend the bunker under orders from Area Command to wait until relieved. Schenke confronts Heydrich about why the group didn't counter-attack the Americans, claiming that there couldn't have been that many of them. Mirus expands on the history of the area, revealing that victims of the Black Plague were massacred on the orders of a stranger, who influenced the townspeople to turn against one another. Low on ammunition, the men are haunted by bad dreams, memories and the feeling that something about the area just isn't right. As the night proceeds, strange tunnels are found beneath the bunker and the situation in the bunker becomes increasingly tense. Pvt. Schenke (Andrew Tiernan) wants to explore the tunnels but Lt. Krupp (Simon Kunz) orders against it. Later, Mirus sneaks down into the tunnels and a curious Pfc. Kruezmann (Eddie Marsan) follows him. When they are discovered to be missing, Lt. Krupp believes they've deserted and orders a pursuit. Interrogation of Neumann reveals that Mirus had been wandering off into the tunnels for several weeks and treats the tunnels as his property, as if something is down there that Mirus doesn't want him to know about. Cpl. Baumann (Jason Flemyng) discovers a set of plans for the complex while Cpl. Ebert (Jack Davenport) finds a danger sign. Exploring further, Ebert comes to a mine shaft where he hears movement and a pile of sand nearly falls on top of him. Terrified, he is suddenly stabbed from behind. As he lays dying, a silhouetted figure resembling Kreutzmann...
+The answer is:",The body was tangled up in the bunker.,1.52734375,11
+GRPO,"Answer the following question: Here's a question: Food on what kind of transport is normally freeze dried or dehydrated?  Here are possible answers to this question: - friend's house - bicycle - space shuttle - kitchen - disneyland  I believe the correct choice is ""space shuttle"", here's why:
+Answer:","A space shuttle would be the correct answer to the question.
+
+Space Shuttle is a type of space transport vehicle that typically functions as a reusable spacecraft. It is typically used for long-duration spaceflight missions, such as space exploration and space travel, and is also used for various other purposes like space research, scientific experiments, and military operations. In the context of the question, ""what kind of transport is normally freeze dried or dehydrated?"" is the correct choice as it pertains to the space shuttle.",2.216796875,101
+GRPO,"A new scientific report claims that puberty begins as early as the age of 6. A woman in North Carolina was charged with murdering her son by whacking him with a computer keyboard.
+
+Does it follow that ""The son died when he was hit with the computer monitor. ""?
+Available options:
+ + yes
+ + it is not possible to tell
+ + no","Yes, it follows that ""The son died when he was hit with the computer monitor. """,1.5673828125,20
+GRPO,"Please add punctuation to this: EUDP project concludes Sams might be able to produce biogas locally  Energiakademietdk
+
+Punctuation version:","EUDP project concludes Sams might be able to produce biogas locally. Energiakademietdk
+
+This sentence is incomplete. You need to add punctuation to complete it.",1.6689453125,37
+GRPO,Write a sentence in Spanish.,"Hola, es mejor! En este sentido, me gustaría explicar los siguencios y conocer la gente en la que estás trabajando.",2.37109375,44

@@ -1,0 +1,272 @@
+Model,Prompt,Response,Token_Count,Perplexity,KL_Divergence
+SFT-Baseline,"The more cylinders a car engine has, the more powerful its engine can be.  Tommy traded in his four-cylinder Pinto for an eight-cylinder Mustang. The Mustang engine was more powerful or less powerful.?
+A:","To determine the more powerful or less powerful car engine, we need to consider the units of horsepower (hp), which is the unit of horsepower used in the United States, not in other countries. In the United States, the more powerful car engine is the one with one more cylinder than the one with two cylinders, since the 4-cylinder Pinto was the more powerful car engine.",80,3.59375,0.0
+SFT-Baseline,"Tweet: @diesel_26 i wish you were here to take care of me 
+Predict the sentiment of this tweet.
+Choices:
+A). negative.
+B). positive.",B). positive.,5,5.80078125,0.0
+SFT-Baseline,"Formulate an answer to this elaborate question: Who plays the music that appears in Marquese Scott's most popular video?
+The answer to this question is:","Marquese Scott's most popular video is a mix of music, dance, and other elements that are designed to evoke the mood and atmosphere of his 1980, 1990, and 2000 videos, respectively. The video is produced by the renowned DJ producer, Marquese Scott, who is known for his ability to incorporate diverse and eclectic music into his productions.
+
+According to the video's description, Marquese Scott's music and dance elements are designed to resemble the original film's original music composition, creating an immersive and engaging experience for the viewer. The video features a variety",128,7.43359375,0.0
+SFT-Baseline,"Paragraph: Although  Bin Laden, Atef, and KSM initially contemplated using established al Qaeda members to execute the planes operation, the late 1999 arrival in Kandahar of four aspiring jihadists from Germany suddenly presented a more attractive alternative. The Hamburg group shared the anti-U.S. fervor of the other candidates for the operation, but added the enormous advantages of fluency in English and familiarity with life in the West, based on years that each member of the group had spent living in Germany. Not surprisingly, Mohamed Atta, Ramzi Binalshibh, Marwan al Shehhi, and Ziad Jarrah would all become key players in the 9/11 conspiracy. Mohamed Atta was born on September 1, 1968, in Kafr el Sheikh, Egypt, to a middle-class family headed by his father, an attorney. After graduating from Cairo University with a degree in architectural engineering in 1990, Atta worked as an urban planner in Cairo for a couple of years. In the fall of 1991, he asked a German family he had met in Cairo to help him continue his education in Germany. They suggested he come to Hamburg and invited him to live with them there, at least initially. After completing a course in German, Atta traveled to Germany for the first time in July 1992. He resided briefly in Stuttgart and then, in the fall of 1992, moved to Hamburg to live with his host family. After enrolling at the University of Hamburg, he promptly transferred into the city engineering and planning course at the Technical University of Hamburg-Harburg, where he would remain registered as a student until the fall of 1999. He appears to have applied himself fairly seriously to his studies (at least in comparison to his jihadist friends) and actually received his degree shortly before traveling to Afghanistan. In school, Atta came across as very intelligent and reasonably pleasant, with an excellent command of the German language. When Atta arrived in Germany, he appeared religious, but not fanatically so. This would change, especially as his tendency to assert leadership became increasingly pronounced. According to Binalshibh, as early as 1995 Atta sought to organize a Muslim student association in Hamburg. In the fall of 1997, he joined a working group at the Quds mosque in Hamburg, a group designed to bridge the gap between Muslims and Christians. Atta proved a poor bridge, however, because of his abrasive and increasingly dogmatic personality. But among those who shared his beliefs, Atta stood out as a decisionmaker. 
+
+Question: ""Who are the four jihadists that arrived in Kandahar in 1999""
+
+Answer: ""Bin Laden""
+
+Based on the paragraph, is this answer correct","Yes, the answer is correct. The four jihadists that arrived in Kandahar in 1999 were Mohamed Atta, Ramzi Binalshibh, Marwan al Shehhi, and Ziad Jarrah. They were all from Germany and were traveling to Kandahar to aid in the operation. The paragraph mentions the Hamburg jihadists who were born in Germany and came to Germany in 1990. So in total, there were four jihadists who arrived in Kandahar in 1999.",116,1.587890625,0.0
+SFT-Baseline,"Given the question: This article: In 1906 San Francisco, Frisco Jenny Sandoval, a denizen of the notorious Tenderloin district, wants to marry piano player Dan McAllister, but her saloonkeeper father Jim is adamantly opposed to it. An earthquake kills both men and devastates the city. In the aftermath, Jenny gives birth to a son, whom she names Dan. With financial help from crooked lawyer Steve Dutton, who himself came from the Tenderloin, she sets herself up in the vice trade, providing women on demand. Jenny has one loyal friend, the Chinese woman Amah, who helps take care of the baby. At a party in Steve's honor, he catches gambler Ed Harris (an uncredited J. Carrol Naish) cheating him in a back room. In the ensuing struggle, Steve kills him, with Jenny the only eyewitness. The pair are unable to dispose of the body before it is found and are questioned by the police. However, neither is charged. The scandal forces Jenny to temporarily give up her baby to a very respectable couple who owe Steve a favor to keep the child from being taken away from her. After three years, she tries to take her son back, but the boy clings to the only mother he can remember, so she leaves him where he is. He grows up and goes to Stanford University, where he becomes a football star, graduates with honors, and becomes first a lawyer, then an assistant district attorney. Jenny lovingly follows his progress. Meanwhile, she takes over the vice and bootlegging in the city. contains an answer for the question: What's the name of the person Amah helps take care of?, what is it ?
+The answer is:","An African-American woman named Amah helps take care of Dan McAllister, the son of the Tenderloin district barkeep.",30,5.26171875,0.0
+SFT-Baseline,"Article: In the autumn of 1913, he was conscripted into the Austro-Hungarian Army. He was sent to a school for non-commissioned officers and became a sergeant, serving in the 25th Croatian Regiment based in Zagreb. In May 1914, Broz won a silver medal at an army fencing competition in Budapest. At the outbreak of World War I in 1914, he was sent to Ruma, where he was arrested for anti-war propaganda and imprisoned in the Petrovaradin fortress. In January 1915, he was sent to the Eastern Front in Galicia to fight against Russia. He distinguished himself as a capable soldier, becoming the youngest Sergeant Major in the Austro-Hungarian Army. For his bravery in the face of the enemy, he was recommended for the Silver Bravery Medal but was taken prisoner of war before it could be formally presented. On 25 March 1915, while in Bukovina, he was seriously wounded and captured by the Russians.
+
+Now answer this question: Where was Tito serioiusly wounded and captured by the Russians at?","Tito serioiusly wounded and captured by the Russians at the Battle of Kragujevac, where he was seriously wounded and captured by the Russians. He was captured by the Russians and was taken prisoner of war.",47,2.66796875,0.0
+SFT-Baseline,"What happens next?
+
+How to make sweet milk tea 
+Bring the water to boil in a small saucepan. 
+Add the 3/4 a cup of water to a saucepan, and bring it to a boil. 
+Add the tea.","You're looking for a sweet, creamy drink. Let's create a delightful blend of tea and milk. To make it, you'll need: 
+- 1 cup of water
+- 1/2 cup of milk (you can adjust the amount based on your taste preference)
+
+Preheat your water bath to boiling. Once the water is boiling, add the tea, stirring to combine and blend all the ingredients. Add the milk, and bring it to a boil again. Let it simmer for 10 minutes, stirring until the milk is thickened and the tea is fully incorporated.
+
+Keep the mixture hot to",128,3.7265625,0.0
+SFT-Baseline,"Ruth Etting (November 23, 1897 - September 24, 1978) was an American singing star and actress of the 1920s and 1930s, who had over 60 hit recordings and worked in stage, radio, and film. Known as ""America's sweetheart of song"", her signature tunes were ""Shine On, Harvest Moon"", ""Ten Cents a Dance"" and ""Love Me or Leave Me"". Her other popular recordings included ""Button Up Your Overcoat"", ""Mean to Me"", ""Exactly Like You"" and ""Shaking the Blues Away"". As a young girl in Nebraska, Etting had wanted to be an artist; she drew and sketched everywhere she was able.
+
+The couple moved to New York in 1927, where Etting made her Broadway debut in the Ziegfeld Follies of 1927. Irving Berlin had recommended her to showman Florenz Ziegfeld. Etting nervously prepared to sing for Ziegfeld at the audition. However, he did not ask her to sing at all; only to walk up and down the room. She was hired on that basis because Ziegfeld did not hire women with big ankles. While the original plan for the show was for Etting to do a tap dance after singing ""Shaking the Blues Away"", she later remembered she was not a very good dancer. At the show's final rehearsal, Flo Ziegfeld told her, ""Ruth, when you get through singing, just walk off the stage"". Etting also appeared in Ziegfeld's last ""Follies"" in 1931.  She went on to appear in a number of other hit shows in rapid succession, including Ziegfeld's Simple Simon and Whoopee!. Etting was not originally signed to perform in Simple Simon; she became part of the cast at the last minute when vocalist Lee Morse was too intoxicated to perform. Ziegfeld asked Etting to replace Morse; she hurried to Boston, where the show was being tried out prior to Broadway. When Etting arrived, songwriters Rodgers and Hart discovered that the song ""Ten Cents a Dance"" was not written for Etting's voice range. The three spent the night rewriting the song so Etting could perform it.  Toward the end of Simple Simon's Broadway run, Etting persuaded Ziegfeld to add ""Love Me Or Leave Me"" to the show though the song was originally written for Whoopee!. She had recorded the song in 1928, but Etting's new version of it was impressive enough to earn her a Vitaphone contract to make film shorts.  In Hollywood, Etting made a long series of movie shorts between 1929 and 1936, and three feature movies in 1933 and 1934. She described the short films as either having a simple plot to allow for her to sing two songs or with no plot at all. The idea was to have Etting sing at least two songs in the film. While she received a marquee billing for Roman Scandals, Etting had only two lines in the film and sang just one song. Etting believed she might have had more success in full-length films if she had been given some acting lessons. Her perception was that the studios viewed her only as a vocalist. She later recalled, ""I was no actress, and I knew it. But I could sell a song"". In 1936, she appeared in London in Ray Henderson's Transatlantic Rhythm. Etting quit the show because she and the other performers had not been paid.  Etting was first heard on radio station WLS when she was living in Chicago. Her appearance drew so much fan mail, the station signed her to a year's contract for twice weekly performances. She had her own twice weekly 15 minute radio show on CBS in the 1930s. By 1934, she was on NBC with sports announcer Ted Husing doing the announcing and Oldsmobile sponsoring her program.
+
+Answer the following question by taking a quote from the article: Where was Etting born?","Etting was born in Nebraska, which was a rural state in the United States. She was born around 1897 and attended a pre-school in Omaha, Nebraska. From there, she moved to New York, where she was hired on as a singer at the Ziegfeld Follies in 1927. She was hired again in 1929, and she performed for Flo Ziegfeld and Lee Morse again in 1931 and 1934. In the 1930s, she appeared in a number of Broadway shows and movies, including Simple",128,1.6318359375,0.0
+SFT-Baseline,"Information:  - An open standard is a standard that is publicly available and has various rights to use associated with it, and may also have various properties of how it was designed (e.g. open process). There is no single definition and interpretations vary with usage.  - The University Corporation for Atmospheric Research (UCAR) is a nonprofit consortium of more than 100 colleges and universities providing research and training in the atmospheric and related sciences. UCAR manages the National Center for Atmospheric Research (NCAR) and provides additional services to strengthen and support research and education through its community programs. Its headquarters, in Boulder, Colorado, include NCAR's Mesa Laboratory, designed by I.M. Pei.  - NCO ( netCDF Operators ) is a suite of programs designed to facilitate manipulation and analysis of self - describing data stored in the netCDF format .  - NetCDF (Network Common Data Form) is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. The project homepage is hosted by the Unidata program at the University Corporation for Atmospheric Research (UCAR). They are also the chief source of netCDF software, standards development, updates, etc. The format is an open standard. NetCDF Classic and 64-bit Offset Format are an international standard of the Open Geospatial Consortium.    What is the relationship between 'netcdf operators' and 'software'?
+A:","The relationship between 'netcdf operators' and 'software' is that 'netcdf operators' are sets of software libraries that are designed to manipulate and analyze data stored in the netCDF format. These libraries are self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. In other words, 'netcdf operators' are sets of software that provide a way to manipulate and analyze data stored in the netCDF format. The connection is that these libraries are the common source of netCDF software, providing a common set of tools for working with data",128,5.00390625,0.0
+SFT-Baseline,"Generate a sentence, and then tell me the concepts included in that sentence.","The sentence included in our conversation was: ""The new marketing campaign will help us achieve a better understanding of our customers, who will be more productive and be able to make more informed decisions about their purchases.""",42,9.140625,0.0
+SFT-Baseline,Write a sentence not in English.,"I had the pleasure of having a wonderful time at the party, and I was so excited to meet all of the wonderful people.",27,5.4921875,0.0
+SFT-Baseline,"Archiearis parthenias
+
+Translate to Finnish
+
+Finnish:","Päärvallan päärvallan kuin teksti siitä, koko johlenet, joka kuin kuin seistä.
+
+Finnish:",49,11.578125,0.0
+SFT-Baseline,"Read this: The west Balkan coast was inhabited by various Illyrian tribes and kingdoms such as the kingdom of the Dalmatae and of the Ardiaei, who often engaged in piracy under Queen Teuta (reigned 231 BC to 227 BCE). Further inland was the Illyrian Paeonian Kingdom and the tribe of the Agrianes which covers most of the modern republic of Macedonia. Illyrians on the coast of the Adriatic were under the effects and influence of Hellenisation and some tribes adopted Greek, becoming bilingual due to their proximity to the Greek colonies in Illyria. Illyrians imported weapons and armor from the Ancient Greeks (such as the Illyrian type helmet, originally a Greek type) and also adopted the ornamentation of Ancient Macedon on their shields and their war belts (a single one has been found, dated 3rd century BC at modern Selce e Poshtme part of Macedon at the time under Philip V of Macedon).
+
+What years did Queen Teutra reign?
+What is the answer? (If it cannot be answered, return ""unanswerable"")",The answer is: Queen Teutra reigned from 231 BC to 227 BCE.,24,1.65234375,0.0
+SFT-Baseline,"Please answer the following question: Question: ""To a non-mathematician, what would be a simile for a cube?""  Context: ""Three Han mathematical treatises still exist. These are the Book on Numbers and Computation, the Arithmetical Classic of the Gnomon and the Circular Paths of Heaven and the Nine Chapters on the Mathematical Art. Han-era mathematical achievements include solving problems with right-angle triangles, square roots, cube roots, and matrix methods, finding more accurate approximations for pi, providing mathematical proof of the Pythagorean theorem, use of the decimal fraction, Gaussian elimination to solve linear equations, and continued fractions to find the roots of equations.""  Answer:
+A:","To a non-mathematician, a simile for a cube would be a cube that has a certain ""shape and appearance,"" that is, it has three distinct sides and three identical angles.",41,6.35546875,0.0
+SFT-Baseline,Write a sentence not in English.,I've finally found a way to make writing more engaging.,13,10.0625,0.0
+SFT-Baseline,Generate a tweet that has the following sentiment: negative,"I was sad to see my friend go through with the breakup.
+
+Really? Yeah, I have one in my life, isn't it?",33,19.359375,0.0
+SFT-Baseline,"Please answer the following question: What is the answer for the question: What is the name of the person that John Culshaw gave an opportunity to show what he could do? from the following article ?  Solti recorded throughout his career for the Decca Record Company. He made more than 250 recordings, including 45 complete opera sets. During the 1950s and 1960s Decca had an alliance with RCA Victor, and some of Solti's recordings were first issued on the RCA label.Solti was one of the first conductors who came to international fame as a recording artist before being widely known in the concert hall or opera house. Gordon Parry, the Decca engineer who worked with Solti and Culshaw on the Ring recordings, observed, ""Many people have said 'Oh well, of course John Culshaw made Solti.' This is not true. He gave him the opportunity to show what he could do.""Solti's first recordings were as a piano accompanist, playing at sessions in Zurich for the violinist Georg Kulenkampff in 1947. Decca's senior producer, Victor Olof did not much admire Solti as a conductor (nor did Walter Legge, Olof's opposite number at EMI's Columbia Records), but Olof's younger colleague and successor, Culshaw, held Solti in high regard. As Culshaw, and later James Walker, produced his recordings, Solti's career as a recording artist flourished from the mid-1950s. Among the orchestras with whom Solti recorded were the Berlin Philharmonic, Chicago Symphony, London Philharmonic, London Symphony and Vienna Philharmonic orchestras. Soloists in his operatic recordings included Birgit Nilsson, Joan Sutherland, Régine Crespin, Plácido Domingo, Gottlob Frick, Carlo Bergonzi, Kiri Te Kanawa and José van Dam. In concerto recordings, Solti conducted for, among others, András Schiff, Julius Katchen, Clifford Curzon, Vladimir Ashkenazy and Kyung-wha Chung.Solti's most celebrated recording was Wagner's Der Ring des Nibelungen made in Vienna, produced by Culshaw, between 1958 and 1965. It has twice been voted the greatest recording ever made, the first poll being among readers of Gramophone magazine in 1999, and the second of professional music critics in 2011, for the BBC's Music Magazine.
+A:","Solti recorded several recordings for Decca Records during his career as a conductor, including 45 complete opera sets, 35 complete opera sets, and 10 complete opera sets for orchestras. Solti's career saw him as a piano accompanist, playing at sessions in Zurich for the violinist Georg Kulenkampff in 1947, and later in the London Philharmonic, the Chicago Symphony, and Vienna Philharmonic. He also produced his recordings for the Berlin Philharmonic, Chicago Symphony, London Philharmonic, Chicago Symphony, London Philharmonic, Vienna Symphony, and London",128,2.099609375,0.0
+SFT-Baseline,"Generate a descriptive sentence about a restaurant using the following words:
+
+name = Travellers Rest Beefeater, eatType = restaurant, priceRange = more than £30, familyFriendly = yes
+Sentence:","Travellers Rest Beefeater is a family-friendly restaurant known for its exceptional selection of dishes and high-quality, seasonal ingredients.",29,5.62109375,0.0
+SFT-Baseline,Generate a context and a hypothesis.,"Context: The local community has been plagued by a series of natural disasters, including a recent devastating flood that wiped out most of the community's homes and infrastructure. Following this event, the community has been forced to rebuild in a highly adapted and resilient manner. The community has been working at a great pace, creating new roads and new buildings to support the rebuilding process.
+
+Hypothesis: The community has been working at a great pace to rebuild the community in an adaptive and resilient manner following the recent flood.",103,4.1171875,0.0
+SFT-Baseline,"Please answer the following question: Given the following context:  Music student Nancy, the 19-year-old daughter of Frank, real estate broker, and Elaine Benson (Bob Hope and Jane Wyman), wants to marry fellow music student David, the 20-year-old son of Oliver Poe, record producer. What the bride doesn't know is that her parents are about to get a divorce. Poe is opposed to marriage and doesn't want the kids to get married. At the church, when the wedding is in progress, he exposes the Bensons' secret. Nancy and David decide marriage isn't necessary. They will live together instead, travel around the country with a rock band and heed the advice and wisdom of a Persian mystic called the Baba Zeba. Frank and Elaine are seeing other people. He is involved with a divorcee, Lois Grey, while she is developing an interest in Phil Fletcher, who also is recently divorced. Poe, meanwhile, continues to see, LaVerne Baker, his live in girl friend. Then one day, Nancy finds out she is pregnant. The Baba Zeba persuades her to put up the baby for adoption, paid off by Oliver. Frank and Elaine conspire behind their daughter's back to adopt their own grandchild. Complications arise, resulting in Frank trying to bribe the guru and even disguising himself as one of the Baba Zeba's robed followers. By the end, all is resolved; the Bensons get back together, David and Nancy have their baby, even Poe and LaVerne have married giving the film a thriced blessed happy ending.  answer the following question:  What are the full names of the bride's parents?
+A:",The full names of the bride's parents are Frank and Elaine Benson.,17,1.556640625,0.0
+SFT-Baseline,"I can use this background: Compared to conventional milk production, organic milk production tends to have lower eutrophication potential per ton of milk or per hectare of farmland, because it potentially reduces leaching of nitrates (NO3−) and phosphates (PO4−) due to lower fertilizer application rates. Because organic milk production reduces pesticides utilization, it increases land use per ton of milk due to decreased crop yields per hectare. Mainly due to the lower level of concentrates given to cows in organic herds, organic dairy farms generally produce less milk per cow than conventional dairy farms. Because of the increased use of roughage and the, on-average, lower milk production level per cow, some research has connected organic milk production with increases in the emission of methane.Animal welfare issues vary among dairy farms and are not necessarily related to the way of producing milk (organically or conventionally).  Now, I have a new situation: Two neighboring dairy farms produced milk for half the state.  Berry farm produced conventional milk, while Rose farm produced organic milk.  Answer this question please: Which farm had milk production which reduced leaching of nitrates?
+The answer to this question is:",The organic farm had milk production which reduced leaching of nitrates.,13,1.6494140625,0.0
+SFT-Baseline,"If ""A line of cars wait behind public transportation as people get off or board."" does that mean that ""The people in the cars are in line for a concert.""?
+Options:
+- yes
+- it is not possible to tell
+- no Stream of thoughts:",Yes,2,3.826171875,0.0
+SFT-Baseline,"Read this and answer the question
+
+Detroit and the rest of southeastern Michigan have a humid continental climate (Köppen Dfa) which is influenced by the Great Lakes; the city and close-in suburbs are part of USDA Hardiness zone 6b, with farther-out northern and western suburbs generally falling in zone 6a. Winters are cold, with moderate snowfall and temperatures not rising above freezing on an average 44 days annually, while dropping to or below 0 °F (−18 °C) on an average 4.4 days a year; summers are warm to hot with temperatures exceeding 90 °F (32 °C) on 12 days. The warm season runs from May to September. The monthly daily mean temperature ranges from 25.6 °F (−3.6 °C) in January to 73.6 °F (23.1 °C) in July. Official temperature extremes range from 105 °F (41 °C) on July 24, 1934 down to −21 °F (−29 °C) on January 21, 1984; the record low maximum is −4 °F (−20 °C) on January 19, 1994, while, conversely the record high minimum is 80 °F (27 °C) on August 1, 2006, the most recent of five occurrences. A decade or two may pass between readings of 100 °F (38 °C) or higher, which last occurred July 17, 2012. The average window for freezing temperatures is October 20 thru April 22, allowing a growing season of 180 days.
+
+What body of water affects Detroit's climate?","The body of water that affects Detroit's climate is the Great Lakes. The Great Lakes are a large body of water that includes Lakes Superior, Michigan, Michigan, Michigan, Ontario, and Lake Erie. These lakes are located in a region that receives significant amounts of precipitation, including heavy rainfall and snowfall, which affects the climate of the areas they drain.
+
+The Great Lakes play a significant role in shaping the climate of Michigan and other states in the region. They are known for their moderate to hot winters and cool to moderate to hot summers, with average temperatures ranging from 25°F (−3°C) in January to",128,3.76953125,0.0
+SFT-Baseline,Remove the spaces from the following sentence: Former names Lion Europe (1997-1998) - Lion Ferry,Former names Lion Europe (1997-1998) - Lion Ferry,19,7.43359375,0.0
+SFT-Baseline,"Given the question: Extract the answer to the following question from the movie plot. If the question isn't answerable, please output ""Can't answer"". Question: Where are Cid and Young Joe hiding from Jesse? Title: Looper Movie plot: In 2044, the United States has suffered economic collapse, causing severe social decay and growth in organized crime. In addition, a strange mutation has occurred in 10% of the population, giving them minor telekinetic powers, manifested by their ability to float small objects. They are referred to as TKs. Thirty years into the future in 2074, time travel is invented, but is immediately outlawed. However, because by that point tracking technology has rendered it nearly impossible to dispose of bodies secretly, crime bosses turn to time travel to send their targets to the past (the movie's present) to be killed by ""loopers"": hired guns paid in silver to kill whoever is sent to them. The victims have bags over their heads, and silver bars strapped to their backs. This comes at a price: The severe sanctions on time travel mean that crime bosses eventually need to end a looper's contract, and also eliminate any traces of their working relationship, so they send his older version back to be killed by his younger self, referred to as ""closing the loop"", which each looper must do himself. They're paid in gold for this, to live the rest of their lives in comfort.Joseph ""Joe"" Simmons (Joseph Gordon-Levitt), 25, works for a mafia company in Kansas City as a looper. Joe's boss, Abe (Jeff Daniels), was sent back in time to manage the loopers and also owns a club where Joe frequents and spends time with Suzie (Piper Perabo), a showgirl. Abe also controls the ""Gat Men,"" his muscle, led by Kid Blue (Noah Segan). Gat men are so named for their magnum revolvers, which have greater range and accuracy than a looper's 'blunderbuss' shotgun; a weapon designed strictly for close quarters.While at the club one evening, another looper announces that he has just closed his loop. The big payoff in gold is reason to party. As Joe continues his work, he and the other loopers begin to notice that loops are being closed at an increasing pace.One night, Seth (Paul Dano), Joe's friend and a fellow looper, visits him in a panic telling him...
+The answer is:",Can't answer,4,1.673828125,0.0
+SFT-Baseline,"This is hands down the worst movie I can ever remember watching. Everything was unbelievably cliché and retarded. The acting was horrible too. The camera work wasn't bad but that still couldn't redeem it. The writer/director of this film must suffer from down's syndrome if he believed this movie would help his career. I want the hour and a half of my life back that I wasted watching this crap. I would rather watch a video of the grass growing than this. I cant believe IMDb is making me write 10 lines in order to post this but I feel that this movie is so bad that I must continue to warn others about it. The reason I came about this movie is that my girlfriend requested it from the local library thinking that it was the Kris Kristoferson movie which ended up being entitled ""Disappearances"". I don't know whose fault it was for this garbage ending up in my DVD player but I feel that someone owes me at least $20 for my time, pain and suffering. In conclusion, the director/writer of this movie better hope i ever recognize him on the street.
+How would you describe the sentiment of this review?","The sentiment of this review is predominantly negative, with a strong dislike for the movie. The reviewer expresses dissatisfaction with the film's clichéd and unoriginal portrayal, the poor acting, and the lack of redeeming qualities. They also express regret for watching the movie, citing their own disappointment and frustration. The sentiment is overwhelmingly negative, with the reviewer criticizing the director, writer, and other aspects of the movie, and expressing their complete regret for their time spent watching it. Overall, the sentiment is overwhelmingly negative, with the reviewer stating that they would rather watch a video of the grass growing than this movie.",123,4.65234375,0.0
+SFT-Baseline,"Premise:
+""yeah i think the the team i like rooting for the best which i don't i don't know if they really are the"" Based on this premise, is the hypothesis ""I think the team I like is the best."" true?
+pick from the following. -yes. -it is not possible to tell. -no.","Based on the premise, ""yeah i think the team I like rooting for the best is the best,"" it is not possible to tell whether the team is the best. The premise only tells us that the team is the best, not that it is the team's sole goal or that they are the best overall.
+
+However, if the premise were true, then the hypothesis ""I think the team I like is the best"" would be true, as it would be supported by the premise. But the premise does not provide enough information to make a definitive conclusion about the team's overall performance.
+
+So, the answer is",128,3.203125,0.0
+SFT-Baseline,Write a brief sentence.,"I often struggle to find the quiet moments in life, and I'm here to help.",19,10.6484375,0.0
+SFT-Baseline,"Here is some data: Binignit, ingredient, Sweet potato; Binignit, mainIngredient, Coconut milk; Sweet potato, order, Solanales.
+
+Write a sentence that describes this data.
+Sentence:","The ordered Sweet potato and Solanales ingredients are listed by their types, providing a comprehensive and detailed breakdown of the food items.",27,7.296875,0.0
+SFT-Baseline,"Question: What is the full name of the person whose performance in Poetic Justice is described as ""beguiling"" and ""believably eccentric""?  Answer the above question based on the context below:  Jackson's fifth studio album Janet, was released in May 1993. The record opened at number one on the Billboard 200, making Jackson the first female artist in the Nielsen SoundScan era to do so. Certified sixfold platinum by the RIAA, it sold over 14 million copies worldwide.Janet spawned five singles and four promotional singles, receiving various certifications worldwide. The lead single ""That's the Way Love Goes"" won the Grammy Award for Best R&B Song and topped the Billboard Hot 100 for eight consecutive weeks. ""Again"" reached number one for two weeks, while ""If"" and ""Any Time, Any Place"" peaked in the top four. ""Because of Love"" and ""You Want This"" charted within the top ten.The album experimented with a diverse number of genres, including contemporary R&B, deep house, swing jazz, hip hop, rock, and pop, with Billboard describing each as being ""delivered with consummate skill and passion."" Jackson took a larger role in songwriting and production than she did on her previous albums, explaining she found it necessary ""to write all the lyrics and half of the melodies"" while also speaking candidly about incorporating her sexuality into the album's content. Rolling Stone wrote ""[a]s princess of America's black royal family, everything Janet Jackson does is important. Whether proclaiming herself in charge of her life, as she did on Control (1986), or commander in chief of a rhythm army dancing to fight society's problems (Rhythm Nation 1814, from 1989), she's influential. And when she announces her sexual maturity, as she does on her new album, Janet., it's a cultural moment.""In July 1993, Jackson made her film debut in Poetic Justice. While the film received mixed reviews, her performance was described as ""beguiling"" and ""believably eccentric."" Jackson's ballad ""Again"", which was written for the film, received Golden Globe and Academy Award nominations for ""Best Original Song.""In September 1993, Jackson appeared topless on the cover of Rolling Stone, with her breasts covered by her then-husband, René Elizondo,...
+Answer:",Janet,3,1.1533203125,0.0
+SFT-Baseline,"If you are prescribed an antibiotic by your doctor, where would you go to get it? Choose the most suitable option to answer the above question. Options: - doctor - prescribed - pharmacy - medicine cabinet - capsule
+A:",If you are prescribed an antibiotic by your doctor:,11,19.921875,0.0
+SFT-Baseline,"Select from options: Continue writing the next sentence.
+
+How to clean stainless steel 
+Remove surface grime. 
+Scrub off any pieces of food, grease, and fingerprints from your appliance surface. A wet towel and a mild detergent like dish soap, work well for the initial cleaning of the stainless steel appliances.
+
+Select from:
+ - Then, wipe down each appliance. If grime or fingerprints look out of place, take the appliance to a professional repair professional..
+ - Dab isopropyl alcohol on the dirtier areas of the enamel wall surfaces. Heat some isopropyl alcohol to 350 ° f (177 ° c) and rub it over areas that have stubborn stains..
+ - Only use a few drops of the mild detergent so it doesn't leave behind a soapy residue while cleaning. If there is dried, stuck-on food, you can try using a nylon scrubbing pad to loosen the food..
+ - Alternatively, you could also make long-term cleaning a habit, and start the polishing process on a regular basis, at minimum. Scrub your appliance with a kitchen brush..
+Answer:","You want to clean stainless steel appliances with a mild detergent, dry the food off the surfaces, and then apply isopropyl alcohol to the dirtier areas to make them easier to clean. Here are some tips for cleaning stainless steel appliances:
+
+1. Use a wet towel and a mild detergent to clean the stainless steel appliance surface. The soap and detergent work well for the initial cleaning of the appliance.
+
+2. Scrub the appliance with a kitchen brush. This will help to remove any surface grime and make the appliance more hygienic.
+
+3. Next, dry the appliance thoroughly using a towel and scrubbing pad. This",128,1.2724609375,0.0
+SFT-Baseline,"What is the missing first step of the following process:  -  Centrioles separate to move to opposite poles - Metaphase, the chromosomes line up in the center - Anaphase, the chromatids separate - Are pulled apart - Telophase, the chromosomes gather at opposite poles - Two new nuclear membranes form - The cell membranes pinch - Divide into two individual cells -
+","In the first step of the process, Centrioles separate to move to opposite poles, which means they are moving in opposite directions. This movement is a result of the alignment of the chromosomes in the cell's center, which is a key step in the formation of the mitotic spindle.
+
+As the centrioles separate, they move to opposite poles, resulting in the separation of the chromosomes. In a typical mitotic cell, the chromosomes are separated into two identical, sister chromatids, which are then pulled apart by the spindle fibers and pulled apart again during the separation of the sister chromatids.
+
+This separation from the",128,2.564453125,0.0
+SFT-Baseline,"Write an article based on this summary:
+
+Tell yourself that being a woman is a mindset. Read coming-of-age books by and about women. Learn appropriate social skills and behaviors. Act with confidence. Learn about the world. Take part in a coming-of-age ritual. Make goals for yourself and live up to them.
+
+Article:","Title: Embracing the Wisdom of Women in Coming-of-Age Literature
+
+Introduction
+
+The world of coming-of-age fiction is a rich and vibrant place, filled with stories of resilience, courage, and self-expression. It is a time when a person comes into their own, and they begin to realize how powerful and empowering it can be to embrace their individuality and discover their true potential. As the protagonist navigates the challenges of coming-of-age, it is essential to acknowledge the importance of a unique mindset that sets them apart from others.
+
+In this article, I will introduce a fascinating perspective on women",128,4.78125,0.0
+SFT-Baseline,"Answer the following question: What is the final step of the following process: -  You plant vegetable seeds in the ground - You water the seeds - You wait for the seeds to sprout - You keep the area free of pests and weeds while the plants grow - You thin out the plants as they get bigger to give them space to grow
+Answer:",The final step of the process is to thin out the plants as they get bigger to give them space to grow.,24,9.265625,0.0
+SFT-Baseline,"Article:Simon Zebo and James Sherry tries saw Munster lead 14-6 but Niki Adeolokun's score and a penalty try helped Connacht move ahead 20-14 by the interval.
+Adeolokun and Finlay Bealham added touchdowns after the break, while Shane O'Leary kicked a total of 15 points.
+The result effectively ended Munster's hopes of a semi-final play-off place.
+They are seventh in the table and face a battle to secure a berth in the Champions Cup next season.
+Connacht, who leapfrogged Glasgow, completed a season double over their Irish interprovincial rivals for the first time, and a spot in the last four of the competition now appears certain.
+Victory came as a boost to Pat Lam's men after Ulster ended their six-match unbeaten run in the competition, followed by a 33-32 defeat by Grenoble in the last eight of the European Challenge Cup.
+A stray Munster hand in the ruck allowed O'Leary to put Connacht ahead after eight minutes, but Zebo - Munster's record try-scorer - went over on his 100th appearance.
+Although O'Leary reduced the deficit to one point with a penalty, Munster's superb driving maul left Connacht scrambling backwards, and hooker Sherry touched down.
+With Anthony Foley's side down to 14 men after James Cronin saw yellow, Connacht made their numerical advantage count.
+The superb Bundee Aki burst through Munster's scrambled defensive line before moving the ball to Finlay Bealham, who sent Adeolokun racing under the posts. O'Leary's easy conversion brought Connacht within a point again.
+Foley's men found themselves under severe pressure at the scrum and, when Billy Holland was sent to the sin-bin, Connacht made no mistake with a two-man advantage in the pack.
+Referee Ben Whitehouse marched Munster under the posts for a penalty try that O'Leary converted for a six-point half-time lead.
+When Robbie Henshaw dropped a cute kick in behind Munster, Adeolokun profited from an awkward bounce to touch down, although O'Leary missed the conversion.
+Ultan Dillane's powerful carry put Connacht on the front foot deep in opposition territory and, when the ball was recycled, Bealham ran over.
+O'Leary followed up the conversion with a penalty with the last kick of the game.
+Connacht: R Henshaw; N Adeolokun, B Aki, P Robb, M Healy; S O'Leary, K Marmion; D Buckley, T McCartney, F Bealham; U Dillane, A Muldowney; S O'Brien, E McKeon, J Muldoon (capt).
+Replacements: J Harris-Wright, R Loughney, JP Cooney, A Browne, J Connolly, J Cooney, J Carty, F Carr.
+Munster: S Zebo; D Sweetnam, F Saili, R Scannell, K Earls; J Holland, C Murray; J Cronin, M Sherry, S Archer; D Ryan, B Holland; CJ Stander (capt), T O'Donnell, J O'Donoghue.
+Replacements: N Scannell, D Kilcoyne, J Ryan, R Copeland, J Coghlan, T O'Leary, I Keatley, A Conway.
+
+Summarize the main points of that article.","According to the article, Connacht are the second-most-defensive side in the European Challenge Cup competition, having scored 14 goals, including two from victory. Their record try-scorer, O'Leary, scored the second goal, and Shane O'Leary, with a penalty, scored the third. Connacht's next goal will be scored by a touchdown from under the pre-match scrimmage, with Foley's team scoring a second goal in the second half. The article concludes with Munster's record try-scorer, Adeolokun, scoring the third goal",128,6.68359375,0.0
+SFT-Baseline,"In a basketball game, Jon scored 3 points. Jack scored 5 points more than Jon, and Tom scored 4 less than the points of Jon and Jack together. How many points did they score altogether?
+Thoughts? Step-by-step reasoning:","Jon scored 3 points. 
+
+Jack scored 5 points more than Jon. 
+If Jack scored 5 points, then Jon scored 3 + 5 = 8 points.
+
+Tom scored 4 less than the points of Jon and Jack at least twice: Tom scored 4 - 5 = 1 point.
+
+The total points scored together is 8 + 1 + 4 - 1 = 21.
+
+The total points scored by all players is 21 + 21 = 42.
+
+The total points scored by all players is indeed 2",128,1.966796875,0.0
+SFT-Baseline,"What are the keywords in the following sentence:
+
+firefighters work to extinguish a fire at a home as they battle a wildfire","The keywords in the sentence discussing firefighters working to extinguish a fire at a home include:
+
+- working
+- extinguish
+- a firefighter
+- fighting
+- a wildfire
+- battling
+
+These keywords are essential to understand in this context, as they convey the actions of firefighters working to extinguish a fire.",69,4.3125,0.0
+SFT-Baseline,Please capitalize where necessary: we help you to secure your rights in connection with:,"In this case, we help you to secure your rights in connection with the following:
+
+It's a significant concern to the consumer in the sense that the law may have been influenced by the fact that we've been able to provide all of the necessary assistance to you without any issues with your privacy.
+
+The best way to secure your rights in connection with the following is to:
+
+We help you to secure your rights in connection with the following:
+
+To secure your rights in connection with the following:",106,3.646484375,0.0
+SFT-Baseline,"Dies hängt in der Tat mit den Anlaufarbeiten für die neue Haushaltsordnung zusammen.
+
+Which language is this?","This is German. It's a standard language used in German-speaking countries and regions, like Germany, Austria, Switzerland, etc.",28,5.6484375,0.0
+SFT-Baseline,"Here is a goal: How do I store the paint in my pocket watercolor set?
+
+How would you accomplish this goal?
+
+
+ (A). Pour out some wet paint from watercolor tubes into the paint sections. Leave the tin open for a couple of days until the paint has dried. You can re-wet the paint when you want to use it..
+ (B). Pour out some wet paint from watercolor tubes into the paint sections. Leave the tin open for a couple of days until the paint has mixed together. You can re-wet the paint when you want to use it..","A) Pour out some wet paint from watercolor tubes and let it sit for a couple of days until the paint has dried. This will give you room to mix the paint later.
+
+(B) Pour out some wet paint from watercolor tubes and let it sit for a couple of days until it has dried. This will help you mix the paint later, when you want to use it.
+
+Both methods will achieve the same end result, which is to create a permanent and consistent medium for your watercolor set. The first method (A) allows the paint to dry naturally, while the second method (B) requires a more gradual",128,5.65625,0.0
+SFT-Baseline,"I forgot my gmail password. I tried all the ways to crack it but there is not result. So what can I do now? Is there any way to get into my account?
+
+How do I reset my Gmail password when I don't remember my recovery information?
+
+Are these two questions paraphrases of each other?","I'm sorry for the confusion. Here's the breakdown of your inquiry:
+
+1. You forgot your Gmail password.
+2. You tried all the ways to crack it, and none of them worked.
+3. So you need to get into your account to reset your password.
+
+I'm sorry for the confusion. I hope this helps.",74,5.49609375,0.0
+SFT-Baseline,"
+Q: Question: how does the brain process language? Would ""This is considered one of the most characteristic abilities of the human species - perhaps the most characteristic."" be a reasonable answer?
+A:","The answer ""This is considered one of the most characteristic abilities of the human species - perhaps the most characteristic"" is a reasonable answer. A more accurate and specific answer would be ""This is considered one of the most characteristic cognitive abilities of the human species, possibly the most characteristic.""
+
+However, upon re-reading the question and the answer, I realize that the question is ambiguous and unclear. The statement ""This is considered one of the most characteristic abilities of the human species - perhaps the most characteristic"" is a bit vague and could be interpreted in different ways.
+
+A better answer would be ""This is considered one of the",128,3.748046875,0.0
+SFT-Baseline,"What might a gentleman own and go inside of?
+Options:
+- garage
+- big house
+- movie
+- restaurant
+- tuxedo
+Let's think now! Step-by-step reasoning:","Step 1: Identify the steps involved in the conversation
+- Identify the steps necessary to answer the question
+- Use the given information to guide the reasoning process
+
+Step 2: Analyze the steps involved in the conversation
+- Step 2.1: Identify the steps necessary to answer the question
+- Step 2.2: Analyze the information provided in the question
+- Step 2.3: Determine the logical consequence of the question
+- Step 2.4: Formulate a logical conclusion based on the information
+
+Step 3: Formulate a logical conclusion based on the steps involved in the conversation
+",128,4.50390625,0.0
+SFT-Baseline,"Given the question: What are you about to do If you're going to study in a library? Choose the most suitable option to answer the above question. Options: - concentrating - concentration - settle down - read books - concentrate
+The answer is:",concentrate,3,4.3125,0.0
+SFT-Baseline,"You are considering whether to buy a product. You look at the reviews. Would the following review decrease or increase the chances of you buying the product? Review title: Full Metal Jacket (Deluxe Edition) [Blu-ray] Product review: This is a great classic war movie, it gave me flash backs of boot camp.I could not tell the difference between the DVD version and the Blue Ray version.
+The answer to this question is:","The review ""Full Metal Jacket (Deluxe Edition)"" would decrease the chances of you buying the product. The reviewer appears to be satisfied with the movie and the quality of the product, but they are not confident in the product's quality or reviews. The reviewer is not indicating that they are interested in the movie itself, but rather that they liked the movie and the product's quality.",80,6.125,0.0
+SFT-Baseline,"Generate a sentence about this data: Angola, Indiana, isPartOf, Steuben County, Indiana; Angola, Indiana, elevationAboveTheSeaLevel, 324.0; Angola, Indiana, isPartOf, Pleasant Township, Steuben County, Indiana; Angola, Indiana, populationDensity, 524.5 (inhabitants per square kilometre); Angola, Indiana, areaTotal, 16.55 (square kilometres)","1. Angola, Indiana, is a state in Indiana, United States.
+2. Angola is a state in Indiana, as stated earlier.
+3. Angola is part of the state of Indiana, as indicated earlier.
+4. Angola has a population density of 524.5 people per square kilometre, making it one of the densest states in Indiana.
+5. Angola is the largest state in Indiana, second after Indiana itself, with a population of approximately 16.55 square kilometres.",108,4.11328125,0.0
+SFT-Baseline,"În ultimul rând, în ceea ce priveşte eficienţa, nu mi se pare corect să creăm două mecanisme separate pentru cele două stadii de evaluare, care sunt verificarea dinaintea aplicării acquis-ului şi aplicarea acquis-ului de către statele Schengen.
+
+Which language is this?","This is a single sentence in Romanian, which translates to ""What is the nature of this document?""
+
+Nu ajuta, în ceea ce sunt de ceea ce primul rând, în ceea ce sunt verificarea dinaintea aplicării, în ceva la dezvoltarea după la scrime ""What is the nature of this document?"" în ceea ce sunt verificarea dinaintea aplicării acquis-ului şi aplicarea",128,8.6015625,0.0
+SFT-Baseline,"@ childrens hospy w Harper  I hate bronchiolitis.
+
+Describe the sentiment embodied by this tweet.","The sentiment embodied by the tweet is negative. The user expresses disbelief and disapproval of children's asthma symptoms, specifically bronchiolitis, by mentioning the symptoms of a person who is not a child and is in general. The user then asks children to avoid the person who is not a child, to avoid the person who is not a child, and then to avoid the person who is not a child altogether. This is a negative sentiment in that it implies that the person who is not a child is not a person who would be in a position to prevent children from having asthma.",117,4.68359375,0.0
+SFT-Baseline,"Facts:   - sport: fencing    - death date: 6 june 1969      - birth date: 11 november 1886    - name: nicolaas nederpeld    - death place: the hague , netherlands    - birth place: the hague , netherlands   Based on these bullet points, write a short biography describing the life of nicolaas nederpeld .
+Answer:","Nicolaas Nerpeld was a Dutch footballer who played at the National Stadium in The Hague, Netherlands, from 1969 to 1996. Born on November 11, 1886 in The Hague, Netherlands, Nerpeld was known for his stunning defensive prowess and exceptional talent on the football field. He is now best known for his ability to score goals in a single game, winning eight league titles, including the 1969 Champions League finals. 
+
+Nerpeld began his career in the Netherlands at the age of 15, where",128,3.654296875,0.0
